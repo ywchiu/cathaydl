@@ -1,5 +1,11 @@
 ## Python 深度學習實戰
 
+### 上課程式碼
+
+#### 20230804
+- https://colab.research.google.com/drive/1iABw9MvH-yNxZtLAWWUu_AbQFeITiVfD?usp=sharing
+
+
 ### Google Colab
 - https://colab.research.google.com/
 
