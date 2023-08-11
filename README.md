@@ -5,6 +5,9 @@
 #### 20230810
 - https://colab.research.google.com/drive/1UVHEXT1NR5xbKnu0fcmcZE6sCMiVjUQ7?usp=sharing
 
+#### 20230810 練習題
+- https://colab.research.google.com/drive/1C5HdsUUA-0ol9P8_g5T-XfEwYv7Smm-9?usp=sharing
+
 #### 20230804
 - https://colab.research.google.com/drive/1iABw9MvH-yNxZtLAWWUu_AbQFeITiVfD?usp=sharing
 
