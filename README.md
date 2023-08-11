@@ -2,6 +2,12 @@
 
 ### 上課程式碼
 
+#### 20230811
+- https://colab.research.google.com/drive/1DIsVzU8BkMSstGX4U5LIET7PWpxHMSZl?usp=sharing
+
+#### 20230811 練習題
+- https://colab.research.google.com/drive/1z7AoOlBNm49aYIo6eUD2IYLkNBgNPKCl?usp=sharing
+
 #### 20230810
 - https://colab.research.google.com/drive/1UVHEXT1NR5xbKnu0fcmcZE6sCMiVjUQ7?usp=sharing
 
