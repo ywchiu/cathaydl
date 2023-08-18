@@ -6,7 +6,7 @@
 - https://colab.research.google.com/drive/1wdBbqGZ9GZmD3xWHh43jbT72TKvRmo7H?usp=sharing
 
 #### 20230819 練習題
-- https://colab.research.google.com/github/ywchiu/cathaydl/blob/main/Text-Mining/BERT_practice.ipynb
+- https://colab.research.google.com/drive/1GVvr8Y1o5JBYwAx0LMP4xXJF_adndcYS?usp=sharing
 
 
 #### 20230817
